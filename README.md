@@ -1,6 +1,6 @@
-<h1 align="center">Pixel Gun 3D Tools</h1>
+<h1 align="center">Pixel Gun 3D Tools Revamped</h1>
 <p align="center">A Python utility suite for Pixel Gun 3D modding, reverse engineering, and experimentation.</p>
-<p align="center">Maintained by <strong>EndoveIicus</strong> · Current Version: <strong>0.2.0</strong></p>
+<p align="center">Maintained by <strong>EndoveIicus</strong> · Current Version: <strong>0.1.0</strong></p>
 
 <p align="center">
   <a href="https://github.com/EndoveIicus/pg3d-tools/releases"><img src="https://img.shields.io/github/downloads/EndoveIicus/pg3d-tools/total.svg" alt="GitHub Downloads"></a>
@@ -69,7 +69,7 @@ It is recommended to use the New Terminal from the Microsoft Store: [Windows Ter
 ![Image3](/image/3gui.png)
 
 # Credits
+- [YeetDisDude](https://github.com/YeetDisDude) - Original Creator
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl) - for the Item Record and WebSocket command JSON
 - [Pulsed](https://github.com/ChrxnZ) - for the WebSocket communication feature
 
-[Discord](https://discord.gg/wnr9ME7enQ)
